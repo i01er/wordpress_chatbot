@@ -13,3 +13,5 @@ We are using the api.ai to create a chatbot at the Wordpress.
 
 ## Connecting with wordpress
 ### Install plugin
+
+Ref: https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/
