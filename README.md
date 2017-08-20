@@ -22,8 +22,7 @@ We are using the api.ai to create a chatbot at the Wordpress.
 ### Install plugin
 1. Install the plugin 'My Chatbot'
 
-'''
-Installation
+> Installation
 Install and activate the plugin.
 Create an API.AI account, setup an agent and copy the client access token.
 If you’re a newbie, I recommend you try importing the Small Talk prebuilt agent.
