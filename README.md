@@ -7,28 +7,36 @@ We are using the api.ai to create a chatbot at the Wordpress.
 2. Sign in with your Google Account
 ![](https://github.com/i01er/wordpress_chatbot/blob/master/images/login.png)
 
+
 ### Create an agent
 1. Create new agent
 ![](https://github.com/i01er/wordpress_chatbot/blob/master/images/CreateAgent.png)
+
 2. You can seclet agent's Language and different Settings
 ![](https://github.com/i01er/wordpress_chatbot/blob/master/images/Language.png)
+
 3. A new agent has created
 ![](https://github.com/i01er/wordpress_chatbot/blob/master/images/Agent.png)
+
 
 ### Training
 1. In Small Talk, you can customize your agent response
 ![](https://github.com/i01er/wordpress_chatbot/blob/master/images/SmallTalk.png)
+
 2. Your agent can also be trained
 ![](https://github.com/i01er/wordpress_chatbot/blob/master/images/Training.png)
+
 
 ## Connecting with wordpress
 ### Find API Key
 1. You can find your agent 'Client Access Token' in 'General'
 ![](https://github.com/i01er/wordpress_chatbot/blob/master/images/Key.png)
 
+
 ### Install plugin
 1. Install the plugin 'My Chatbot'
 You may follow the installation from [My Chatboot](https://wordpress.org/plugins/my-chatbot/#installation)
+
 > Installation
 
 > Install and activate the plugin.
