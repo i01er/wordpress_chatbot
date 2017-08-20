@@ -10,6 +10,7 @@ We are using the api.ai to create a chatbot at the Wordpress.
 1. Create new agent
 2. You can seclet agent's Language and different Settings
 3. A new agent has created
+[](https://github.com/i01er/wordpress_chatbot/blob/master/images/Agent.png)
 
 ### Training
 1. In Small Talk, you can customize your agent response
