@@ -34,8 +34,8 @@ We are using the api.ai to create a chatbot at the Wordpress.
 
 
 ### Install plugin
-1. Install the plugin 'My Chatbot'
-You may follow the installation from [My Chatboot](https://wordpress.org/plugins/my-chatbot/#installation)
+1. Install the plugin 'My Chatbot'  
+You may follow the instruction from [My Chatboot](https://wordpress.org/plugins/my-chatbot/#installation)
 
 ```
 Installation  
