@@ -1,3 +1,6 @@
+This repo is no longer update and please refer to my [Medium tutorial](https://medium.com/wordblock/adding-a-chatbot-to-your-wordpress-d74306132e2a)
+
+------
 # Wordpress Chatbot
 We are using the api.ai to create a chatbot at the Wordpress.
 
